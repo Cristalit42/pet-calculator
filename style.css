@@ -71,3 +71,9 @@ html, body {
   padding: 12px 30px;
   max-width: 101px;
 }
+@media (max-width:550px){
+  .cal{
+    transform: scale(.5);
+    margin-right: 200px;
+  }
+}
